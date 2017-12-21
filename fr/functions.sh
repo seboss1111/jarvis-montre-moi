@@ -11,15 +11,15 @@
 
 pg_show_me_lang () {
    case "$1" in
-   	mm_preparing_phrase) echo "One moment, I'm getting ready...";;
-	mm_here_i_am) echo "Here I am";;
+   	mm_preparing_phrase) echo "2 secondes, je me prépare...";;
+	mm_here_i_am) echo "Me voici";;
 
-    mm_order_regex) echo ".*show me (.*)";;
-	mm_not_understood) echo "I did not understand what to show.";;
-	mm_not_found) echo "Sorry, I did not find any pictures.";;
-	mm_thinking_phrase) echo "I'm looking for available images...";;
-	mm_textual_response) echo "Here's '$2'...";;
-	mm_not_ready) echo "I can't right now...";;
+    mm_order_regex) echo ".*montre-moi (.*)";;
+	mm_not_understood) echo "Je n'ai pas compris ce qu'il faut montrer.";;
+	mm_not_found) echo "Désolé, je n'ai pas trouvé d'images.";;
+	mm_thinking_phrase) echo "Je regarde les images disponibles...";;
+	mm_textual_response) echo "Voici '$2'...";;
+	mm_not_ready) echo "Je ne peux pas tout de suite...";;
 
    esac
 } 

@@ -1,0 +1,9 @@
+jv_pg_mm_server_started=false
+jv_pg_mm_not_exiting=false
+#echo "Stoping plugin montre-moi"
+jv_pg_mm_server_pid="$(pgrep -n websocketd)"
+if [[ ! -z "$jv_pg_mm_server_pid" ]]
+then
+	#echo "Stoping WS server $jv_pg_mm_server_pid"
+    kill -9 $jv_pg_mm_server_pid
+fi

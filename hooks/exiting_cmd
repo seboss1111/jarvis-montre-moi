@@ -1,0 +1,1 @@
+$jv_pg_mm_server_started && jv_pg_mm_enqueue_event "exiting_cmd" &

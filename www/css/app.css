@@ -1,0 +1,93 @@
+body
+{
+	background-color: #000;	
+	color: #F7F8E0;
+	font-family: tahoma, arial, sans-serif;
+}
+
+#montre-moi-error
+{
+	display: none;
+	text-align: center;
+}
+
+#display
+{
+	display: flex;
+	margin: 2em auto;
+	width: 60%;
+	height: 24em;
+	border: 3px solid #6E6E6E;
+	border-radius: 0.5em;
+	padding: 0.5em;
+	text-align: center;
+}
+
+#display #main-image
+{
+	display: none;
+	width: 100%;
+}
+
+#display #bot
+{
+	display: none;
+}
+
+#conversation
+{
+	margin: 0.5em auto;
+	font-size: 1.4em;
+	background-color: #2E2E2E;
+	width: 90%;
+	height: 8em;
+	overflow-y: scroll;
+	border: 3px solid #6E6E6E;
+	border-radius: 0.5em;
+	padding: 0.5em;
+	list-style-type: none;
+}
+
+#conversation .who
+{
+	text-transform:capitalize;
+}
+
+#conversation .who.human
+{
+	color : #2E64FE;
+}
+
+#conversation .who.jarvis
+{
+	color : #DF01D7;
+}
+
+#image-modal .modal-dialog
+{
+	width: 60em;
+	margin: auto;
+}
+
+#image-modal .modal-content
+{
+	background-color: #2E2E2E;
+	color : #2E64FE;
+}
+
+#image-modal #image-preview
+{
+	overflow: hidden;
+	margin: auto;
+	height: 30em;
+	width: 90%;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+#image-modal #engine-logo
+{
+	height: 1.5em;
+}
