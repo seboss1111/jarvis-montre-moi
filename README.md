@@ -84,9 +84,9 @@ It will be downloaded during install (~7Mb).
 
 ## Screenshots
 
-![Interface]()
+![Interface](/../media/media/interface_sample_1.png?raw=true)
 
-![Image]()
+![Image](/../media/media/interface_sample_2.png?raw=true )
 
 ## Usage
 
