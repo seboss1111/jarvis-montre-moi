@@ -16,9 +16,9 @@ Le module sera téléchargé lors de l'installation (~7Mb).
 
 ## Captures
 
-![Interface](/../media/jarvis-montre-moi/interface_sample_1.png?raw=true )
+![Interface](/../media/media/interface_sample_1.png?raw=true)
 
-![Image](/../media/jarvis-montre-moi/media/interface_sample_2.png?raw=true )
+![Image](/../media/media/interface_sample_2.png?raw=true )
 
 ## Usage
 
