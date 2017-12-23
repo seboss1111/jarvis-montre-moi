@@ -16,9 +16,9 @@ Le module sera téléchargé lors de l'installation (~7Mb).
 
 ## Captures
 
-![Interface](/../media/media/interface_sample_1.png?raw=true)
+![Interface](https://github.com/lakadev/jarvis-montre-moi/blob/media/media/interface_sample_1.png?raw=true)
 
-![Image](/../media/media/interface_sample_2.png?raw=true )
+![Image](https://github.com/lakadev/jarvis-montre-moi/blob/media/media/interface_sample_2.png?raw=true)
 
 ## Usage
 
@@ -84,9 +84,9 @@ It will be downloaded during install (~7Mb).
 
 ## Screenshots
 
-![Interface](/../media/media/interface_sample_1.png?raw=true)
+![Interface](https://github.com/lakadev/jarvis-montre-moi/blob/media/media/interface_sample_1.png?raw=true)
 
-![Image](/../media/media/interface_sample_2.png?raw=true )
+![Image](https://github.com/lakadev/jarvis-montre-moi/blob/media/media/interface_sample_2.png?raw=true)
 
 ## Usage
 
