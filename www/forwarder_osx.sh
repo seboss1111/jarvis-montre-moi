@@ -8,7 +8,6 @@ tmpVar=""
 p="p"
 i=1
 nbLines=0
-serverIsRunning=""
 
 while true; do
 	tmpVar="$(sed -n "$i$p" tmpBuffer)"

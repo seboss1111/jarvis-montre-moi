@@ -1,4 +1,5 @@
 #!/bin/bash
+
 while true; do
   read input
   echo $input
